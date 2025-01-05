@@ -9,3 +9,5 @@ Además, de manera alineada extiendo mi formación dentro de la rama de desarrol
 Como suelen decir: Cuando aprendes algo nuevo, te das cuenta de lo poco que conoces.
 
 Si tienes alguna duda o curiosidad acerca del mundo IT o relacionado y creas que puedo servirte de ayuda, ¡No dudes en contactarme!
+
+Y gracias por leerme 
